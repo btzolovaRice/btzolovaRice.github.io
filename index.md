@@ -28,8 +28,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters, and Presentations 
-- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_ 
-- **Automated Vessel Segmentation in the Liver Organ**, _Blackwell Tapia Conference 2021 Poster Session_ 
+- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_, _Blackwell Tapia Conference 2021 Poster Session_ 
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
 - **Python Geoviews: I Can Show You The World**, _Princeton Consultants Quarterly Meeting Spring 2019_
@@ -39,21 +38,18 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Creating a New Type of Swimmer: The Thermal Marangoni Effect**, _Institute for NanoBioTechnology Research Symposium at Johns Hopkins University 2015_ 
 
 ### Teaching 
-- **Numerical Analysis**, Grader, Fall 2021 
+- **Numerical Analysis**, Grader, Fall 2021/Fall 2020  
 - **Differential Equations**, Grader, Spring 2021 
-- **Numerical Analysis**, Grader, Fall 2020 
 - **Matrix Analysis for Data Science**, Grader, Spring 2020 
 - **Matrix Analysis**, Grader, Fall 2019 
-- **Linear Algebra**, Teaching Assistant _Evaluations 4.89/5_, Spring 2017
-- **Linear Algebra**, Teaching Assistant _Evaluations 4.69/5_, Fall 2016
-- **Differential Equations**, Teaching Assistant _Evaluations 4.63/5_, Spring 2016
+- **Linear Algebra**, Teaching Assistant, Spring 2017, _Evaluations 4.89/5_, Fall 2016, _Evaluations 4.69/5_
+- **Differential Equations**, Teaching Assistant, _Evaluations 4.63/5_, Spring 2016
 
 ### Service
 - **President**, Rice University Association for Women in Mathematics
-- **Organizer**, Rice University Math Nights 
+- **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
 - **Organizing Committee**, Texas Women in Math Symposium Spring 2022
 - **Graduate Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
-- **Organizer**, Freshman Math Mentorship Program 
 
 
 
