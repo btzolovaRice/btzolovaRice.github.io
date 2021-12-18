@@ -2,7 +2,7 @@
 
 I am a third year PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests lie in image segmentation, deep learning, and biomedical informatics. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
 
-####Contact: [Email](bilyana@rice.edu) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
+#### Contact: [Email](bilyana@rice.edu) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
 
 ### Education 
 
@@ -11,13 +11,13 @@ I am a third year PhD student in the Computational and Applied Mathematics Depar
 - **B.S.** Physics, Johns Hopkins University, December 2016
 
 ### Previous Research/Experience
-- **Associate** Princeton Consultants, New York, NY 2017-2019
-- **RIPS REU** Institute for Pure and Applied Mathematics, Los Angeles, CA, Summer 2016
-- **MRSEC REU** Department of Physics, New York University, Summer 2015 
-- **Undergraduate Researcher** Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
+- **Associate**, Princeton Consultants, New York, NY 2017-2019
+- **RIPS REU**, Institute for Pure and Applied Mathematics, University of California, Los Angeles, Summer 2016
+- **MRSEC REU**, Department of Physics, New York University, Summer 2015 
+- **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
 ### Publications
-- **Adaptive spectral solution method for the Landau and Lenard-Balescu equations** _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, **Bilyana Tzolova**, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
+- **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, **Bilyana Tzolova**, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters, and Presentations 
 - **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_ 
