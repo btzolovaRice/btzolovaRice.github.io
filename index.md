@@ -32,9 +32,9 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
 - **Python Geoviews: I Can Show You The World**, _Princeton Consultants Quarterly Meeting Spring 2019_
-- **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _AMS Contributed Paper Session on Ordinary Differential Equations,_ Joint Mathematics Meeting Atlanta 2017
+- **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _AMS Contributed Paper Session on Ordinary Differential Equations,_ Joint Mathematics Meeting 2017
 - **Interfacial Microrheology Study of Layer Formation by Staphylococcal Nuclease Protein and its Disordered Variant**, _Soft Matter at Interfaces Session,_ APS March Meeting Baltimore 2016
-- **Microscopic Investigation of Protein Layer Mechanics**, _APS Conference for Undergraduate Women in Physics at Rutgers University 2015_
+- **Microscopic Investigation of Protein Layer Mechanics**, _APS Conference for Undergraduate Women in Physics 2015_
 - **Creating a New Type of Swimmer: The Thermal Marangoni Effect**, _Institute for NanoBioTechnology Research Symposium at Johns Hopkins University 2015_ 
 
 ### Teaching 
