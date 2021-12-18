@@ -28,7 +28,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters, and Presentations 
-- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_, _Blackwell Tapia Conference 2021 Poster Session_ 
+- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_, _Blackwell Tapia Conference 2021_ 
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
 - **Python Geoviews: I Can Show You The World**, _Princeton Consultants Quarterly Meeting Spring 2019_
