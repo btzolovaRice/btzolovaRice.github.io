@@ -17,9 +17,9 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
 ### Awards/Honors 
-- **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021-September 2024 
+- **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021
   - Sponsoring Agency: National Heart, Lung, and Blood Institute
-- **Brown Fellowship**, Rice University, 2019-2020
+- **Brown Fellowship**, Rice University, 2019
 - **Departmental Honors in Mathematics**, Johns Hopkins University, 2016
 - **Departmental Honors in Physics**, Johns Hopkins University, 2016
 - **Homewood Arts Certificate**, Johns Hopkins University, 2016
