@@ -50,9 +50,9 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Service
 - **President**, Rice University Association for Women in Mathematics
-  - Created and run Rice University Math Nights 
-  - Organized Freshman Math Mentorship Program 
+  - Established and run Rice University Math Nights 
   - Organizing Texas Women in Math Symposium 2022 at Rice University
+  - Organized Freshman Math Mentorship Program 
 - **Graduate Advisory Committee**, Rice University, Department of Computational and Applied Mathematics
 
 
