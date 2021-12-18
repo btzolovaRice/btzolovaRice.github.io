@@ -1,8 +1,8 @@
 ## About me
 
-I am a third year PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests lie in image segmentation, deep learning, and biomedical informatics. My research is funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship and is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html). 
+I am a third year PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests lie in image segmentation, deep learning, and biomedical informatics. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
 
-####
+####Contact: [Email](bilyana@rice.edu) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
 
 ### Education 
 
@@ -20,8 +20,15 @@ I am a third year PhD student in the Computational and Applied Mathematics Depar
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations** _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, **Bilyana Tzolova**, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters, and Presentations 
-- **Automated Vessel Segmentation in the Liver Organ** _SIAM TX-LA Meeting 2021 Poster Session_ 
-- **Automated Vessel Segmentation in the Liver Organ** _Blackwell Tapia Conference 2021 Poster Session_ 
+- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_ 
+- **Automated Vessel Segmentation in the Liver Organ**, _Blackwell Tapia Conference 2021 Poster Session_ 
+- **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
+- **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
+- **Python Geoviews: I Can Show You The World**, _Princeton Consultants Quarterly Meeting Spring 2019_
+- **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _AMS Contributed Paper Session on Ordinary Differential Equations,_ Joint Mathematics Meeting Atlanta 2017
+- **Interfacial Microrheology Study of Layer Formation by Staphylococcal Nuclease Protein and its Disordered Variant**, _Soft Matter at Interfaces Session,_ APS March Meeting Baltimore 2016
+- **Microscopic Investigation of Protein Layer Mechanics**, _APS Conference for Undergraduate Women in Physics at Rutgers University 2015_
+- **Creating a New Type of Swimmer: The Thermal Marangoni Effect**, _Institute for NanoBioTechnology Research Symposium at Johns Hopkins University 2015_ 
 
 
 
