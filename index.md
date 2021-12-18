@@ -18,6 +18,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Awards/Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021
+
   Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Brown Fellowship**, Rice University, 2019
 - **Homewood Arts Certificate**, Johns Hopkins University, 2017
@@ -50,10 +51,10 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Service
 - **President**, Rice University Association for Women in Mathematics
-- **Organizer** Rice University Math Nights 
-- **Organizing Committee** Texas Women in Math Symposium Spring 2022
+- **Organizer**, Rice University Math Nights 
+- **Organizing Committee**, Texas Women in Math Symposium Spring 2022
 - **Graduate Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
-- **Coordinator** Freshman Math Mentorship Program 
+- **Organizer**, Freshman Math Mentorship Program 
 
 
 
