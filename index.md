@@ -18,14 +18,14 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Awards/Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021
-  - Sponsoring Agency: National Heart, Lung, and Blood Institute
+    - Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Brown Fellowship**, Rice University, 2019
 - **Departmental Honors in Mathematics**, Johns Hopkins University, 2016
 - **Departmental Honors in Physics**, Johns Hopkins University, 2016
 - **Homewood Arts Certificate**, Johns Hopkins University, 2016
 
 ### Publications
-- **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, **Bilyana Tzolova**, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
+- **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters, and Presentations 
 - **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_ 
@@ -50,9 +50,9 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Service
 - **President**, Rice University Association for Women in Mathematics
-  - Created and run Rice University Math Nights 
-  - Organized Freshman Math Mentorship Program 
-  - Organizing Texas Women in Math Symposium 2022 at Rice University
+    - Created and run Rice University Math Nights 
+    - Organized Freshman Math Mentorship Program 
+    - Organizing Texas Women in Math Symposium 2022 at Rice University
 - **Graduate Advisory Committee**, Rice University, Department of Computational and Applied Mathematics
 
 
