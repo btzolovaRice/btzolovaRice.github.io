@@ -12,12 +12,12 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Previous Research/Experience
 - **Associate**, Princeton Consultants, New York, NY 2017-2019
-- **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 - **RIPS REU**, Institute for Pure and Applied Mathematics, University of California, Los Angeles, Summer 2016
 - **MRSEC REU**, Department of Physics, New York University, Summer 2015 
+- **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
 ### Awards/Honors 
-- **Ruth L. Kirschstein NIH National Research Service Award Fellowship** 2021-2024 
+- **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021-September 2024 
   - Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Brown Fellowship**, Rice University, 2019-2020
 - **Departmental Honors in Mathematics**, Johns Hopkins University, 2016
@@ -52,7 +52,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **President**, Rice University Association for Women in Mathematics
   - Created and run Rice University Math Nights 
   - Organized Freshman Math Mentorship Program 
-  - Organizing Texas Women in Math Symposium 2022 at Rice University 
+  - Organizing Texas Women in Math Symposium 2022 at Rice University
 - **Graduate Advisory Committee**, Rice University, Department of Computational and Applied Mathematics
 
 
