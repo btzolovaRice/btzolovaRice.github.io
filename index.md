@@ -12,9 +12,9 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Previous Research/Experience
 - **Associate**, Princeton Consultants, New York, NY 2017-2019
+- **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 - **RIPS REU**, Institute for Pure and Applied Mathematics, University of California, Los Angeles, Summer 2016
 - **MRSEC REU**, Department of Physics, New York University, Summer 2015 
-- **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
 ### Awards/Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award Fellowship** 2021-2024 
