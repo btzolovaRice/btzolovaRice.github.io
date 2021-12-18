@@ -16,6 +16,14 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **MRSEC REU**, Department of Physics, New York University, Summer 2015 
 - **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
+### Awards/Honors 
+- **Ruth L. Kirschstein NIH National Research Service Award Fellowship** 2021-2024 
+  - Sponsoring Agency: National Heart, Lung, and Blood Institute
+- **Brown Fellowship**, Rice University, 2019-2020
+- **Departmental Honors in Mathematics**, Johns Hopkins University, 2016
+- **Departmental Honors in Physics**, Johns Hopkins University, 2016
+- **Homewood Arts Certificate**, Johns Hopkins University, 2016
+
 ### Publications
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, **Bilyana Tzolova**, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
@@ -29,6 +37,26 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Interfacial Microrheology Study of Layer Formation by Staphylococcal Nuclease Protein and its Disordered Variant**, _Soft Matter at Interfaces Session,_ APS March Meeting Baltimore 2016
 - **Microscopic Investigation of Protein Layer Mechanics**, _APS Conference for Undergraduate Women in Physics at Rutgers University 2015_
 - **Creating a New Type of Swimmer: The Thermal Marangoni Effect**, _Institute for NanoBioTechnology Research Symposium at Johns Hopkins University 2015_ 
+
+### Teaching 
+- **Numerical Analysis**, Grader, Fall 2021 
+- **Differential Equations**, Grader, Spring 2021 
+- **Numerical Analysis**, Grader, Fall 2020 
+- **Matrix Analysis for Data Science**, Grader, Spring 2020 
+- **Matrix Analysis**, Grader, Fall 2019 
+- **Linear Algebra**, Teaching Assistant _ Evaluations 4.89/5_, Spring 2017
+- **Linear Algebra**, Teaching Assistant _ Evaluations 4.69/5_, Fall 2016
+- **Differential Equations**, Teaching Assistant _ Evaluations 4.63/5_, Spring 2016
+
+### Service
+- **President**, Rice University Association for Women in Mathematics (Rice AWM)
+  - Created and run Rice University Math Nights 
+  - Organized Freshman Math Mentorship Program 
+  - Organizing Texas Women in Math Symposium 2022 at Rice University 
+- **Graduate Advisory Committee**, Rice University Department of Computational and Applied Mathematics
+
+
+
 
 
 
