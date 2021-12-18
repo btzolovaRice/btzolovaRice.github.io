@@ -18,7 +18,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Awards/Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021
-> Sponsoring Agency: National Heart, Lung, and Blood Institute
+  -Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Brown Fellowship**, Rice University, 2019
 - **Homewood Arts Certificate**, Johns Hopkins University, 2017
 - **Departmental Honors in Math**, Johns Hopkins University, 2016
