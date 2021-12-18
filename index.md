@@ -1,3 +1,5 @@
+![Thumbnail of Minimal](thumbnail.png)
+
 ## About me
 
 I am a PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests lie in image segmentation, deep learning, and biomedical informatics. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
@@ -44,16 +46,16 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Numerical Analysis**, Grader, Fall 2020 
 - **Matrix Analysis for Data Science**, Grader, Spring 2020 
 - **Matrix Analysis**, Grader, Fall 2019 
-- **Linear Algebra**, Teaching Assistant _ Evaluations 4.89/5_, Spring 2017
-- **Linear Algebra**, Teaching Assistant _ Evaluations 4.69/5_, Fall 2016
-- **Differential Equations**, Teaching Assistant _ Evaluations 4.63/5_, Spring 2016
+- **Linear Algebra**, Teaching Assistant _Evaluations 4.89/5_, Spring 2017
+- **Linear Algebra**, Teaching Assistant _Evaluations 4.69/5_, Fall 2016
+- **Differential Equations**, Teaching Assistant _Evaluations 4.63/5_, Spring 2016
 
 ### Service
-- **President**, Rice University Association for Women in Mathematics (Rice AWM)
+- **President**, Rice University Association for Women in Mathematics
   - Created and run Rice University Math Nights 
   - Organized Freshman Math Mentorship Program 
   - Organizing Texas Women in Math Symposium 2022 at Rice University 
-- **Graduate Advisory Committee**, Rice University Department of Computational and Applied Mathematics
+- **Graduate Advisory Committee**, Rice University, Department of Computational and Applied Mathematics
 
 
 
