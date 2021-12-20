@@ -48,7 +48,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Service
 - **President**, Rice University Association for Women in Mathematics
 - **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
-- **Organizing Committee**, Texas Women in Math Symposium Spring 2022
+- **Organizing Committee**, Texas Women in Math Symposium 2022
 - **Graduate Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
 
 
