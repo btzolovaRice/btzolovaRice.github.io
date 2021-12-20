@@ -10,13 +10,13 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **M.A.** Mathematics, Johns Hopkins University, December 2016
 - **B.S.** Physics, Johns Hopkins University, December 2016
 
-### Previous Research/Experience
+### Research and Experience
 - **Associate**, Princeton Consultants, New York, NY 2017-2019
 - **RIPS REU**, Institute for Pure and Applied Mathematics, University of California, Los Angeles, Summer 2016
 - **MRSEC REU**, Materials Research Science and Engineering Center, New York University, Summer 2015 
 - **Undergraduate Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
-### Awards/Honors 
+### Awards and Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** September 2021
   - Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Brown Fellowship**, Rice University, 2019
@@ -27,7 +27,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Publications
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
-### Posters, and Presentations 
+### Posters and Presentations 
 - **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_, _Blackwell Tapia Conference 2021_ 
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
