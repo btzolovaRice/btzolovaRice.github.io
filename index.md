@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests lie in image segmentation, deep learning, and biomedical informatics. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
+I am a PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests lie in image recognition, deep learning, and biomedical informatics. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
 
 #### Contact: [Email](mailto:bilyana@rice.edu) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
 
