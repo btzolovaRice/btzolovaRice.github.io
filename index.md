@@ -7,6 +7,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Education 
 
 - **Ph.D.** Computational and Applied Mathematics, Rice University, May 2024 (Expected)
+- **M.A.** Computational and Applied Mathematics, Rice University, May 2022
 - **M.A.** Mathematics, Johns Hopkins University, December 2016
 - **B.S.** Physics, Johns Hopkins University, December 2016
 
@@ -56,7 +57,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 
 
-Last updated: February 1st, 2022
+Last updated: May 24st, 2022
 
 
 
