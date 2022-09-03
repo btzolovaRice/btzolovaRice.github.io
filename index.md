@@ -19,7 +19,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Awards and Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024
-  - Sponsoring Agency: National Heart, Lung, and Blood Institute
+    - Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Rice Datathon Cognite Challenge Winner**, Rice University, 2022 
 - **Rice Datathon Overall Honorable Mention**, Rice University, 2022 
 - **Brown Fellowship**, Rice University, 2019
