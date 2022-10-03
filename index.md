@@ -21,7 +21,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024  
     - Sponsoring Agency: National Heart, Lung, and Blood Institute
 - **Rice Datathon: Cognite Challenge Winner, Overall Honorable Mention**, Rice University, 2022 
-- **[AWM Student Chapter Award for Scientific Excellence](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)**, Association for Women in Math, 2022
+- **AWM Student Chapter Award for Scientific Excellence**, [Association for Women in Math](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award), 2022
 - **Brown Fellowship**, Rice University, 2019
 - **Homewood Arts Certificate**, Johns Hopkins University, 2017
 - **Departmental Honors in Math**, Johns Hopkins University, 2016
