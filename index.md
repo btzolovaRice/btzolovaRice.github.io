@@ -31,7 +31,8 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters and Presentations 
-- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_, _Blackwell Tapia Conference 2021_ 
+- **AMachine Learning Methods for Vessel Segmentation on Organs**, _SIAM Conference on Mathematics of Data Science_
+- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
 - **Python Geoviews: I Can Show You The World**, _Princeton Consultants Quarterly Meeting Spring 2019_
@@ -49,15 +50,15 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Differential Equations**, Teaching Assistant, _Evaluations 4.63/5_, Spring 2016
 
 ### Service
-- **Executive Board Member**, [Rice University Association for Women in Mathematics](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)
+- **Rice AWM President**, [Rice University Association for Women in Mathematics](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)
 - **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
 - **Organizing Committee**, [Texas Women in Math Symposium 2022](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html#2022) 
-- **Graduate Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
+- **Graduate Student Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
 
 
 
 
-Last updated: September 2nd, 2022
+Last updated: October 3rd, 2022
 
 
 
