@@ -50,7 +50,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Differential Equations**, Teaching Assistant, _Evaluations 4.63/5_, Spring 2016
 
 ### Service
-- **Rice AWM President**, [Rice University Association for Women in Mathematics](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)
+- **President**, [Rice University Association for Women in Mathematics](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)
 - **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
 - **Organizing Committee**, [Texas Women in Math Symposium 2022](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html#2022) 
 - **Graduate Student Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
