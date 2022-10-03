@@ -20,8 +20,8 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Awards and Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024  
     - Sponsoring Agency: National Heart, Lung, and Blood Institute
-- **Rice Datathon Cognite Challenge Winner**, Rice University, 2022 
-- **Rice Datathon Overall Honorable Mention**, Rice University, 2022 
+- **Rice Datathon: Cognite Challenge Winner, Overall Honorable Mention**, Rice University, 2022 
+- **[AWM Student Chapter Award for Scientific Excellence](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)**, Association for Women in Math, 2022
 - **Brown Fellowship**, Rice University, 2019
 - **Homewood Arts Certificate**, Johns Hopkins University, 2017
 - **Departmental Honors in Math**, Johns Hopkins University, 2016
@@ -31,7 +31,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters and Presentations 
-- **AMachine Learning Methods for Vessel Segmentation on Organs**, _SIAM Conference on Mathematics of Data Science_
+- **Machine Learning Methods for Vessel Segmentation on Organs**, _SIAM Conference on Mathematics of Data Science_
 - **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
@@ -50,8 +50,8 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Differential Equations**, Teaching Assistant, _Evaluations 4.63/5_, Spring 2016
 
 ### Service
-- **President**, [Rice University Association for Women in Mathematics](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)
-- **Organizer**, [Rice University Math Nights](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html#2022), Freshman Math Mentorship Program  
+- **President**, [Rice University Association for Women in Mathematics](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html#2022)
+- **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
 - **Organizing Committee**, [Texas Women in Math Symposium 2022](https://sites.google.com/view/twims-2022/about) 
 - **Graduate Student Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
 
