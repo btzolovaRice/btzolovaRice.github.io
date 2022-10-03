@@ -31,15 +31,15 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Posters and Presentations 
-- **Machine Learning Methods for Vessel Segmentation on Organs**, _SIAM Conference on Mathematics of Data Science_
-- **Automated Vessel Segmentation in the Liver Organ**, _SIAM TX-LA Meeting 2021 Poster Session_
-- **Machine Learning Methods for Vessel Segmentation in Organs**, _Departmental Graduate Student Seminar Fall 2021_
+- **Machine Learning Methods for Vessel Segmentation on Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._, SIAM Conference on Mathematics of Data Science
+- **Automated Vessel Segmentation in the Liver Organ**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._, SIAM TX-LA Meeting 2021 Poster Session
+- **Machine Learning Methods for Vessel Segmentation in Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._, Departmental Graduate Student Seminar Fall 2021
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Departmental Graduate Student Seminar Spring 2020_
-- **Python Geoviews: I Can Show You The World**, _Princeton Consultants Quarterly Meeting Spring 2019_
-- **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _AMS Contributed Paper Session on Ordinary Differential Equations,_ Joint Mathematics Meeting 2017
-- **Interfacial Microrheology Study of Layer Formation by Staphylococcal Nuclease Protein and its Disordered Variant**, _Soft Matter at Interfaces Session,_ APS March Meeting Baltimore 2016
-- **Microscopic Investigation of Protein Layer Mechanics**, _APS Conference for Undergraduate Women in Physics 2015_
-- **Creating a New Type of Swimmer: The Thermal Marangoni Effect**, _Institute for NanoBioTechnology Research Symposium at Johns Hopkins University 2015_ 
+- **Python Geoviews: I Can Show You The World**, _Bilyana Tzolova._ Princeton Consultants Quarterly Meeting Spring 2019
+- **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Bilyana Tzolova, Abigail Hickok, Justyna Tafoya, Robert Loek Van Heyningen, Omer Tekin, Frank Graziani, Chris Scullard._, AMS Contributed Paper Session on Ordinary Differential Equations, Joint Mathematics Meeting 2017
+- **Interfacial Microrheology Study of Layer Formation by Staphylococcal Nuclease Protein and its Disordered Variant**, _Bilyana Tzolova, Daniel Allan, Daniel Firester, Bertrand Garcia-Moreno, Daniel Reich, Robert Leheny._, Soft Matter at Interfaces Session, APS March Meeting Baltimore 2016
+- **Microscopic Investigation of Protein Layer Mechanics**, _Bilyana Tzolova, Daniel Allen, Robert Leheny_, APS Conference for Undergraduate Women in Physics 2015
+- **Creating a New Type of Swimmer: The Thermal Marangoni Effect**, _Bilyana Tzolova, Michelle Driscoll, Paul Chaikin_, Institute for NanoBioTechnology Research Symposium at Johns Hopkins University 2015
 
 ### Teaching 
 - **Numerical Analysis**, Grader, Fall 2021/Fall 2020  
