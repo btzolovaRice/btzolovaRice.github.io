@@ -20,6 +20,8 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Awards and Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024  
     - Sponsoring Agency: National Heart, Lung, and Blood Institute
+- **Alan Weiser Memorial Travel Award**, Rice University 2023
+- **SIAM Student Travel Award**, SIAM CSE 2023
 - **Rice Datathon: Cognite Challenge Winner, Overall Honorable Mention**, Rice University, 2022 
 - **AWM Student Chapter Award for Scientific Excellence**, [Association for Women in Math](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award), 2022
 - **Brown Fellowship**, Rice University, 2019
@@ -60,7 +62,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 
 
-Last updated: March 8th, 2023
+Last updated: March 10th, 2023
 
 
 
