@@ -34,6 +34,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 ### Posters and Presentations 
 - **Machine Learning and Computational Methods for Blood Flow in Organs**,  _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM Conference on Computational Science and Engineering (CSE23)
+- **Machine Learning and Computational Methods for Blood Flow in Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ Women in Scientific Computing on Complex Physical and Biological Systems 2022
 - **Machine Learning Methods for Vessel Segmentation on Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM Conference on Mathematics of Data Science (MDS22)
 - **Automated Vessel Segmentation in the Liver Organ**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM TX-LA Meeting 2021 Poster Session
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ Departmental Graduate Student Seminar Fall 2021
@@ -62,7 +63,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 
 
-Last updated: March 10th, 2023
+Last updated: March 16th, 2023
 
 
 
