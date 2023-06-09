@@ -1,6 +1,7 @@
 ## About me
 
-I am a PhD student in the Computational and Applied Mathematics Department at Rice University. My research interests are focused in image recognition, deep learning, and biomedical informatics. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
+I am a PhD student in the Computational and Applied Mathematics Department at Rice University. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
+<!-- My research interests are focused in image recognition, deep learning, and biomedical informatics.  -->
 
 #### Contact: [Email](mailto:bilyana@rice.edu) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
 
@@ -20,6 +21,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Awards and Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024  
     - Sponsoring Agency: National Heart, Lung, and Blood Institute
+- **SIAM Student Travel Award**, SIAM GS 2023
 - **Alan Weiser Memorial Travel Award**, Rice University 2023
 - **SIAM Student Travel Award**, SIAM CSE 2023
 - **Rice Datathon: Cognite Challenge Winner, Overall Honorable Mention**, Rice University, 2022 
@@ -63,7 +65,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 
 
-Last updated: March 16th, 2023
+Last updated: June 9th, 2023
 
 
 
