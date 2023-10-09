@@ -35,7 +35,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Conference Presentations 
-<!-- -**Coupled 1D-3D Flow and Transport in Porous Media**, _Bilyana Tzolova._ SIAM Conference on Mathematical & Computational Issues in the Geosciences (GS23) -->
+-- -**Coupled 1D-3D Flow and Transport in Porous Media**, _Bilyana Tzolova._ SIAM Conference on Mathematical & Computational Issues in the Geosciences (GS23)
 - **Machine Learning and Computational Methods for Blood Flow in Organs**,  _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM Conference on Computational Science and Engineering (CSE23)
 - **Machine Learning and Computational Methods for Blood Flow in Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ Women in Scientific Computing on Complex Physical and Biological Systems 2022
 - **Machine Learning Methods for Vessel Segmentation on Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM Conference on Mathematics of Data Science (MDS22)
@@ -68,7 +68,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 
 
-Last updated: June 9th, 2023
+Last updated: October 9th, 2023
 
 
 
