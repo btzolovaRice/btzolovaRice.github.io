@@ -58,7 +58,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **Linear Algebra**, Teaching Assistant, Spring 2017, _Evaluations 4.89/5_, Fall 2016, _Evaluations 4.69/5_
 - **Differential Equations**, Teaching Assistant, _Evaluations 4.63/5_, Spring 2016
 
-### Service
+### Leadership
 - **Session Chair**, SIAM Conference on Mathematics of Data Science
 - **President**, [Rice University Association for Women in Mathematics](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html#2022)
 - **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
