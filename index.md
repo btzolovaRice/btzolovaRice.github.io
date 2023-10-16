@@ -13,7 +13,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 - **B.S.** Physics, Johns Hopkins University, December 2016
 
 ### Research and Experience
-- **Consultant**, Princeton Consultants, New York, NY 2017-2019
+- **Technical Consultant**, Princeton Consultants, New York, NY 2017-2019
 - **RIPS REU**, Institute for Pure and Applied Mathematics, University of California, Los Angeles, Summer 2016
 - **MRSEC REU**, Materials Research Science and Engineering Center, New York University, Summer 2015 
 - **Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
