@@ -62,12 +62,11 @@ I am a PhD candidate in the Computational Applied Mathematics and Operations Res
 - **Differential Equations**, Teaching Assistant, _Evaluations 4.63/5_, Spring 2016
 
 ### Leadership
-- **Session Chair**, SIAM Conference on Mathematics of Data Science
 - **President**, [Rice University Association for Women in Mathematics](https://math.rice.edu/Outreach/AWM/Site/Rice_AWM.html#2022)
 - **Organizer**, Rice University Math Nights, Freshman Math Mentorship Program  
 - **Organizing Committee**, [Texas Women in Math Symposium 2022](https://sites.google.com/view/twims-2022/about) 
 - **Graduate Student Advisory Committee**, Department of Computational and Applied Mathematics, Rice University
-
+- **Session Chair**, SIAM Conference on Mathematics of Data Science
 
 
 
