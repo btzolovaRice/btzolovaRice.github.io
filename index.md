@@ -1,6 +1,6 @@
 ## About me
 
-I am a PhD student in the Computational and Applied Mathematics Department at Rice University. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
+I am a PhD candidate in the Computational and Applied Mathematics Department at Rice University. My research is advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
 <!-- My research interests are focused in image recognition, deep learning, and biomedical informatics.  -->
 
 #### Contact: [Email](mailto:bilyana@rice.edu) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
@@ -34,17 +34,20 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 ### Publications
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
-### Conference Presentations 
+### Invited Talks 
+- **Flow and Transport in the Liver Organ**, _Bilyana Tzolova._ 6th Annual Meeting of the SIAM Texas Louisiana Section (TXLA23)
 - **Coupled 1D-3D Flow and Transport in Porous Media**, _Bilyana Tzolova._ SIAM Conference on Mathematical & Computational Issues in the Geosciences (GS23)
+
+### Conference Presentations 
 - **Machine Learning and Computational Methods for Blood Flow in Organs**,  _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM Conference on Computational Science and Engineering (CSE23)
 - **Machine Learning and Computational Methods for Blood Flow in Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ Women in Scientific Computing on Complex Physical and Biological Systems 2022
 - **Machine Learning Methods for Vessel Segmentation on Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM Conference on Mathematics of Data Science (MDS22)
-- **Automated Vessel Segmentation in the Liver Organ**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ SIAM TX-LA Meeting 2021
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, _Bilyana Tzolova, Abigail Hickok, Justyna Tafoya, Robert Loek Van Heyningen, Omer Tekin, Frank Graziani, Chris Scullard._ AMS Contributed Paper Session on Ordinary Differential Equations, Joint Mathematics Meeting 2017
 - **Interfacial Microrheology Study of Layer Formation by Staphylococcal Nuclease Protein and its Disordered Variant**, _Bilyana Tzolova, Daniel Allan, Daniel Firester, Bertrand Garcia-Moreno, Daniel Reich, Robert Leheny._ Soft Matter at Interfaces Session, APS March Meeting Baltimore 2016
 - **Microscopic Investigation of Protein Layer Mechanics**, _Bilyana Tzolova, Daniel Allen, Robert Leheny._ APS Conference for Undergraduate Women in Physics 2015
 
 ### Other Presentations
+- **Automated Vessel Segmentation in the Liver Organ**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ 4th Annual Meeting of the SIAM Texas Louisiana Section (TXLA21)
 - **Machine Learning Methods for Vessel Segmentation in Organs**, _Bilyana Tzolova, Beatrice Riviere, David Fuentes._ Departmental Graduate Student Seminar Fall 2021
 - **Adaptive Polynomial Expansion Method for the Numerical Solution of the Landau Equation**, Departmental Graduate Student Seminar Spring 2020
 - **Python Geoviews: I Can Show You The World**, Princeton Consultants Quarterly Meeting Spring 2019
@@ -68,7 +71,7 @@ I am a PhD student in the Computational and Applied Mathematics Department at Ri
 
 
 
-Last updated: October 9th, 2023
+Last updated: November 6th, 2023
 
 
 
