@@ -35,6 +35,7 @@ I am a PhD candidate in the Computational Applied Mathematics and Operations Res
 - **Adaptive spectral solution method for the Landau and Lenard-Balescu equations**, _Christian R. Scullard, Abigail Hickok, Justyna Sotiris, Bilyana Tzolova, Robert L. Van Heyningen, Frank R. Graziani._ Journal of Computational Physics, 2020. 
 
 ### Invited Talks 
+- **Coupled Flow and Transport in the Liver Organ**, _Bilyana Tzolova._ Seventh Chilean Workshop on Numerical Analysis of Partial Differential Equations (WONAPDE 2024)
 - **Flow and Transport in the Liver Organ**, _Bilyana Tzolova._ 6th Annual Meeting of the SIAM Texas Louisiana Section (TXLA23)
 - **Coupled 1D-3D Flow and Transport in Porous Media**, _Bilyana Tzolova._ SIAM Conference on Mathematical & Computational Issues in the Geosciences (GS23)
 
@@ -70,7 +71,7 @@ I am a PhD candidate in the Computational Applied Mathematics and Operations Res
 
 
 
-Last updated: November 6th, 2023
+Last updated: January 26th, 2023
 
 
 
