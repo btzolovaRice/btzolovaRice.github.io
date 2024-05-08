@@ -7,7 +7,7 @@ I am a PhD candidate in the Computational Applied Mathematics and Operations Res
 
 ### Education 
 
-- **Ph.D.** Computational and Applied Mathematics, Rice University, May 2024 (Expected)
+- **Ph.D.** Computational and Applied Mathematics, Rice University, August 2024
 - **M.A.** Computational and Applied Mathematics, Rice University, May 2022
 - **M.A.** Mathematics, Johns Hopkins University, December 2016
 - **B.S.** Physics, Johns Hopkins University, December 2016
