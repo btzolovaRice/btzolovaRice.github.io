@@ -72,7 +72,7 @@ I recently graduate with my Ph.D. in Computational and Applied Mathematics from 
 
 
 
-Last updated: January 3rd, 2024
+Last updated: January 3rd, 2025
 
 
 
