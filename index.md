@@ -1,7 +1,7 @@
 ## About me
 I am currently an AI researcher and engineer at Adapter, where I work on large language models and their applications. My research interests span LLMs, interpretability, efficient fine-tuning, and real-world deployment of foundation models.
 
-I completed my Ph.D. in Computational and Applied Mathematics at Rice University, where I was advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html). My doctoral research, funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship combined deep learning, applied math, and biomedical modeling to generate clinically insightful simulations from real patient data.
+I completed my Ph.D. in Computational and Applied Mathematics at Rice University, where I was advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html). My doctoral research, funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship, combined deep learning, applied math, and biomedical modeling to generate clinically insightful simulations from real patient data.
 
 #### Contact: [Email](mailto:btzolova2@gmail.com) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
 
