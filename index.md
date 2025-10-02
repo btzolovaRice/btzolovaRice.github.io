@@ -1,7 +1,7 @@
 ## About me
+I am currently an AI researcher and engineer at Adapter, where I work on large language models and their applications. My research interests span LLMs, interpretability, efficient fine-tuning, and real-world deployment of foundation models.
 
-I recently graduated with my Ph.D. in Computational and Applied Mathematics from Rice University. My research was advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html) and funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship.
-<!-- My research interests are focused in image recognition, deep learning, and biomedical informatics.  -->
+I completed my Ph.D. in Computational and Applied Mathematics at Rice University, where I was advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html). My doctoral research, funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship combined deep learning, applied math, and biomedical modeling to generate clinically insightful simulations from real patient data.
 
 #### Contact: [Email](mailto:btzolova2@gmail.com) | [Linkedin](https://www.linkedin.com/in/bilyanatzolova/)
 
@@ -13,6 +13,7 @@ I recently graduated with my Ph.D. in Computational and Applied Mathematics from
 - **B.S.** Physics, Mathematics, Johns Hopkins University, December 2016
 
 ### Research and Experience
+- **AI Researcher/Engineer**, [Adapter](https://adapter.com/), 2025-present
 - **Technical Consultant**, Princeton Consultants, New York, NY 2017-2019
 - **RIPS REU**, Institute for Pure and Applied Mathematics, University of California, Los Angeles, Summer 2016
 - **MRSEC REU**, Materials Research Science and Engineering Center, New York University, Summer 2015 
@@ -72,7 +73,7 @@ I recently graduated with my Ph.D. in Computational and Applied Mathematics from
 
 
 
-Last updated: January 3rd, 2025
+Last updated: October 2nd, 2025
 
 
 
