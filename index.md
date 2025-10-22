@@ -21,7 +21,7 @@ I completed my Ph.D. in Computational and Applied Mathematics at Rice University
 
 ### Awards and Honors 
 - **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024  
-    - Sponsoring Agency: National Heart, Lung, and Blood Institute
+    - Sponsoring Agency: [National Heart, Lung, and Blood Institute](https://bit.ly/47ekM89)
 - **SIAM Student Travel Award**, SIAM GS 2023
 - **Alan Weiser Memorial Travel Award**, Rice University 2023
 - **SIAM Student Travel Award**, SIAM CSE 2023
