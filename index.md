@@ -1,5 +1,5 @@
 ## About me
-I am currently an AI researcher and engineer at Adapter, where I work on large language models and their applications. My research interests include LLMs, interpretability, efficient fine-tuning, and real-world deployment of foundation models.
+I am currently an AI researcher and engineer at Adapter, where I work on large language models and their applications. My research interests include LLMs, efficient fine-tuning, and building reliable, interpretable AI systems for real-world and scientific applications.
 
 I completed my Ph.D. in Computational and Applied Mathematics at Rice University, where I was advised by [Dr. Beatrice Riviere](http://compm.rice.edu/people-2/beatrice-riviere/) and [Dr. David Fuentes](https://faculty.mdanderson.org/profiles/david_fuentes.html). My doctoral research, funded by the Ruth L. Kirschstein NIH National Research Service Award Fellowship, combined deep learning and mathematical modeling to develop simulations informed by real-world data.
 
@@ -20,13 +20,13 @@ I completed my Ph.D. in Computational and Applied Mathematics at Rice University
 - **Researcher**, Department of Physics and Astronomy, Johns Hopkins University 2014-2017 
 
 ### Awards and Honors 
-- [**Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024](https://bit.ly/47ekM89)  
-    - Sponsoring Agency: National Heart, Lung, and Blood Institute
+- **Ruth L. Kirschstein NIH National Research Service Award F31 Fellowship** 2021-2024
+    - [Sponsoring Agency: National Heart, Lung, and Blood Institute](https://cmor.rice.edu/news/tzolova-third-year-phd-student-awarded-3-year-138000-nih-grant)
 - **SIAM Student Travel Award**, SIAM GS 2023
 - **Alan Weiser Memorial Travel Award**, Rice University 2023
 - **SIAM Student Travel Award**, SIAM CSE 2023
 - **Rice Datathon: Cognite Challenge Winner, Overall Honorable Mention**, Rice University, 2022 
-- [**AWM Student Chapter Award for Scientific Excellence**](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award), Association for Women in Math, 2022
+- [**AWM Student Chapter Award for Scientific Excellence**, Association for Women in Math, 2022](https://cmor.rice.edu/news/rice-awm-honored-student-chapter-award)
 - **Brown Fellowship**, Rice University, 2019
 - **Homewood Arts Certificate**, Johns Hopkins University, 2017
 - **Departmental Honors in Math**, Johns Hopkins University, 2016
